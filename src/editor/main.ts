@@ -180,7 +180,7 @@ class MapEditor {
     return `
       <main class="editor-shell">
         <aside class="sidebar">
-          <div class="brand">Wonder Land Map Editor</div>
+          <div class="brand">Little Brave Map Editor</div>
           <label class="field">
             <span>Stage</span>
             <select id="stage-select">

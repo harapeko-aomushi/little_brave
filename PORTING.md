@@ -1,4 +1,4 @@
-# Wonder Land Browser Porting Checklist
+# Little Brave Browser Porting Checklist
 
 This file tracks browser-side parity against `old/source`.
 The goal is not "roughly similar", but "old implementation reviewed system by system".
