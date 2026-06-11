@@ -74,6 +74,7 @@ export default defineConfig({
     rollupOptions: {
       input: {
         index: resolve('index.html'),
+        game: resolve('game.html'),
         editor: resolve('editor.html')
       }
     }
